@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedashar14 and currently have experience of 4 years of experience in PHP, BACKBONE JS,  SUGARCRM,  SUITECRM, HABDLEBARS,  SMARTY,  REACT JS, JAVASCRIPT,  HTML & CSS
+- 👋 Hi, I’m @syedashar14 and currently have 4 years of experience in PHP, BACKBONE JS,  SUGARCRM,  SUITECRM, HABDLEBARS,  SMARTY,  REACT JS, JAVASCRIPT,  HTML & CSS
 - 👀 I’m interested in contributing to web based projects which are providing people ease to manage their lives in a much better way. 
 - 🌱 I’m currently learning Django along with Docker & Kubernetes to add more things in my skill set
 - 💞️ I’m looking to collaborate in resolving existing issues,  implementing new features or improving performance of the systems. 
